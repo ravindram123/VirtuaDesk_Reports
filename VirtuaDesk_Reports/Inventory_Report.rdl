@@ -553,25 +553,6 @@ WHERE DATE_TIME=@DATE_TIME</CommandText>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
-            <Image Name="Image2">
-              <Source>Embedded</Source>
-              <Value>VirtuaDeskIcon</Value>
-              <Sizing>FitProportional</Sizing>
-              <Top>0.1307in</Top>
-              <Left>0.27604in</Left>
-              <Height>0.7825in</Height>
-              <Width>3.04167in</Width>
-              <Style>
-                <Border>
-                  <Style>None</Style>
-                </Border>
-              </Style>
-              <cl:ComponentMetadata>
-                <cl:ComponentId>7353dbfb-1234-493a-b099-eaef9a5eeb2d</cl:ComponentId>
-                <cl:SourcePath>/Report Parts/Image2</cl:SourcePath>
-                <cl:SyncDate>2019-11-05T19:59:15.4069181+05:30</cl:SyncDate>
-              </cl:ComponentMetadata>
-            </Image>
             <Image Name="Image1">
               <Source>Embedded</Source>
               <Value>WiproIcon</Value>
@@ -579,7 +560,6 @@ WHERE DATE_TIME=@DATE_TIME</CommandText>
               <Left>8.71356in</Left>
               <Height>0.9132in</Height>
               <Width>2.42708in</Width>
-              <ZIndex>1</ZIndex>
               <Style>
                 <Border>
                   <Style>None</Style>
