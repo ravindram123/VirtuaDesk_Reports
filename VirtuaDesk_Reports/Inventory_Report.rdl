@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:cl="http://schemas.microsoft.com/sqlserver/reporting/2010/01/componentdefinition" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily">
+<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily">
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
@@ -552,26 +552,6 @@ WHERE DATE_TIME=@DATE_TIME</CommandText>
           <Height>0.91889in</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
-          <ReportItems>
-            <Image Name="Image1">
-              <Source>Embedded</Source>
-              <Value>WiproIcon</Value>
-              <Sizing>FitProportional</Sizing>
-              <Left>8.71356in</Left>
-              <Height>0.9132in</Height>
-              <Width>2.42708in</Width>
-              <Style>
-                <Border>
-                  <Style>None</Style>
-                </Border>
-              </Style>
-              <cl:ComponentMetadata>
-                <cl:ComponentId>d895c1a2-4948-4a7d-bb74-f26363f7e156</cl:ComponentId>
-                <cl:SourcePath>/Report Parts/Image1</cl:SourcePath>
-                <cl:SyncDate>2019-11-05T19:59:15.3119080+05:30</cl:SyncDate>
-              </cl:ComponentMetadata>
-            </Image>
-          </ReportItems>
           <Style>
             <Border>
               <Style>Solid</Style>
