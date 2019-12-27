@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "VirtuaDesk_Reports", "VirtuaDesk_Reports\VirtuaDesk_Reports.rptproj", "{089122BC-273E-49E2-8823-A24FE7F58A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.Debug|Default.ActiveCfg = Debug
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.Debug|Default.Build.0 = Debug
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.Debug|Default.Deploy.0 = Debug
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.DebugLocal|Default.Build.0 = DebugLocal
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.Release|Default.ActiveCfg = Release
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.Release|Default.Build.0 = Release
+		{089122BC-273E-49E2-8823-A24FE7F58A99}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2DD791D-C992-44D1-91B7-B4817CD6D636}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="VirtuaDesk_DS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=VIRTUADESKDEV11;Initial Catalog=VirtuaDesk</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>bd5d0e08-8730-4552-978f-1080504bad5c</DataSourceID>
+</RptDataSource>
